@@ -1,4 +1,3 @@
 # HelloWorld
-Hello Guys!
-Vivek here with lots of love!
+This is my first Git learning experience. So saying Hello to all!!
 
