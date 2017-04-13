@@ -1,3 +1,5 @@
 # HelloWorld
-This is my first Git learning experience. So saying Hello to all!!
+This is my first Git learning experience. 
+Saying Hello to all!!
+:)(:
 
